@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ライムライト",
+  "base_artist": "DeNeel",
+  "createdAt": "2026-02-20T13:01:25.500123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WONDERLAND feat.ライムライト",
+      "artist": "AZU",
+      "has_synced": true,
+      "path": "select/01_WONDERLAND_feat.ライムライト_AZU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライムライト",
+      "artist": "DeNeel",
+      "has_synced": false,
+      "path": "select/pl_01_ライムライト_DeNeel.txt"
+    }
+  ]
+}
